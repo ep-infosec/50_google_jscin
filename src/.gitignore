@@ -1,0 +1,12 @@
+# Vim noise
+.*.swp
+# V8(d8) readline history
+.d8_history
+# ctags
+tags
+.clang_complete
+# Nacl build out
+nacl/*/newlib
+nacl/*/pnacl
+nacl/*/nacl
+nacl/libchewing/libchewing
